@@ -1,2 +1,0 @@
-# novel-studio
-novel-skill
